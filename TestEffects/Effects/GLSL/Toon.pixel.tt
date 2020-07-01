@@ -1,0 +1,49 @@
+<#@ output extension=".glsl" #>
+
+// ------ Include SpaceLightBase Start ------
+// ------------------------------------------
+<#@ include file="SpaceLightBase.glsli" #>
+// ------------------------------------------
+// ------- Include SpaceLightBase End -------
+
+//#ifndef TOONLOOKUP
+//	texture toonlookup < string path="Effects/Lookups/toonlookup.png"; >;
+//#endif
+
+SamplerState ToonSampler
+{
+	Texture = (ToonLookup);
+	AddressU = CLAMP;
+	AddressV = CLAMP;
+};
+
+
+
+float4 ToonPS2_Base
+(
+	SpaceLightPS2_Inputs Input
+)
+{
+	float4 color = SpaceLightPS2_Base(Input);
+
+ 	float3 PointToCam = Input.PointToCam;
+
+	float  toondot    = dot(PointToCam,Input.WorldNormal);
+	
+	float4 tooncolor  = ToonLookup.Sample(ToonSampler,-toondot);
+	color *= tooncolor;
+	
+	return color;
+}
+
+
+void main
+(
+	SpaceLightPS2_Inputs Input
+)
+{
+	vec4 value = ToonPS2_Base(Input);
+
+	gl_FragColor = value;
+}
+

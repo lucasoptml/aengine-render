@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4911"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="C:\spheroid\Projects\Spheroid\Build\Effects\Lookups"
+   sodipodi:docname="lookups.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4913" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="40.124452"
+     inkscape:cy="1038.9065"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata4916">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;color:#000000;fill:#fafafa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5001"
+       width="68.214287"
+       height="5.4464288"
+       x="2.4107144"
+       y="5.4871798"
+       inkscape:export-filename="C:\spheroid\Projects\Spheroid\Build\Effects\Lookups\rect5001.png"
+       inkscape:export-xdpi="89.999992"
+       inkscape:export-ydpi="89.999992" />
+    <image
+       y="7.1594172"
+       x="3.78825"
+       id="image4978"
+       height="2"
+       width="64"
+       sodipodi:absref="C:\spheroid\Projects\Spheroid\Build\Effects\Lookups\skylookup.png"
+       xlink:href="skylookup.png"
+       style="opacity:0;fill:#ffffff"
+       inkscape:export-filename="C:\spheroid\Projects\Spheroid\Build\Effects\Lookups\menulookup.png"
+       inkscape:export-xdpi="89.999992"
+       inkscape:export-ydpi="89.999992" />
+    <image
+       y="15.577013"
+       x="2.4714558"
+       id="image4988"
+       height="2"
+       width="64"
+       sodipodi:absref="C:\spheroid\Projects\Spheroid\Build\Effects\Lookups\desertlookup.png"
+       xlink:href="desertlookup.png" />
+    <image
+       y="22.143005"
+       x="2.7239938"
+       id="image4998"
+       height="2"
+       width="64"
+       sodipodi:absref="C:\spheroid\Projects\Spheroid\Build\Effects\Lookups\bubblefarmlookup.png"
+       xlink:href="bubblefarmlookup.png" />
+    <rect
+       style="opacity:0.07;color:#000000;fill:#f50000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect25724"
+       width="2.1875002"
+       height="4.1071429"
+       x="59.910713"
+       y="6.0228939" />
+    <rect
+       y="6.0228939"
+       x="52.99107"
+       height="4.1071429"
+       width="6.5178576"
+       id="rect25726"
+       style="opacity:0.07;color:#000000;fill:#fcf482;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.07;color:#000000;fill:#5be500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect25728"
+       width="1.9642857"
+       height="4.1071429"
+       x="50.535709"
+       y="5.8443227" />
+    <rect
+       y="5.9336085"
+       x="40.937492"
+       height="4.1071429"
+       width="7.0982141"
+       id="rect25730"
+       style="opacity:0.07;color:#000000;fill:#009bf5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0;color:#000000;fill:#30c4ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2165"
+       width="11.160714"
+       height="7.3214288"
+       x="12.857142"
+       y="-16.387817" />
+    <image
+       y="33.475658"
+       x="6.1015253"
+       id="image2173"
+       height="2"
+       width="8"
+       sodipodi:absref="C:\spheroid\Projects\Spheroid\Build\Effects\Lookups\toonlookup.png"
+       xlink:href="toonlookup.png" />
+    <rect
+       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2176"
+       width="8"
+       height="2"
+       x="5.9977808"
+       y="36.559097"
+       inkscape:export-filename="C:\spheroid\Projects\Spheroid\Build\Effects\Lookups\boldtoonlookup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;color:#000000;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3153"
+       width="1.4520943"
+       height="2.841054"
+       x="9.7542858"
+       y="36.211857" />
+    <rect
+       style="opacity:1;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3151"
+       width="1.6414979"
+       height="3.8196392"
+       x="8.4284601"
+       y="36.211857" />
+    <rect
+       style="opacity:1;color:#000000;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3149"
+       width="3.2829957"
+       height="5.2085991"
+       x="5.5558391"
+       y="36.18029" />
+  </g>
+</svg>

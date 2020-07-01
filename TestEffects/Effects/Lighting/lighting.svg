@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="612pt"
+   height="792pt"
+   id="svg4764"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting"
+   sodipodi:docname="lighting.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4766">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3301">
+      <stop
+         style="stop-color:#3746ff;stop-opacity:1;"
+         offset="0"
+         id="stop3303" />
+      <stop
+         style="stop-color:#3746ff;stop-opacity:0;"
+         offset="1"
+         id="stop3305" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3276">
+      <stop
+         style="stop-color:#00ee00;stop-opacity:1;"
+         offset="0"
+         id="stop3278" />
+      <stop
+         style="stop-color:#00ee00;stop-opacity:0;"
+         offset="1"
+         id="stop3280" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3210">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3212" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3214" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3185">
+      <stop
+         id="stop3187"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop3189"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2243">
+      <stop
+         id="stop2245"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop2247"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9738">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop9740" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop9744" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7781">
+      <stop
+         id="stop7783"
+         offset="0"
+         style="stop-color:#fff73d;stop-opacity:1;" />
+      <stop
+         id="stop7785"
+         offset="1"
+         style="stop-color:#808080;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7767">
+      <stop
+         style="stop-color:#3d40ff;stop-opacity:1;"
+         offset="0"
+         id="stop7769" />
+      <stop
+         style="stop-color:#808080;stop-opacity:0;"
+         offset="1"
+         id="stop7773" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7757">
+      <stop
+         id="stop7759"
+         offset="0"
+         style="stop-color:#757575;stop-opacity:1;" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0.5"
+         id="stop7763" />
+      <stop
+         id="stop7761"
+         offset="1"
+         style="stop-color:#808080;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7749">
+      <stop
+         id="stop7751"
+         offset="0"
+         style="stop-color:#7f7f7f;stop-opacity:1;" />
+      <stop
+         style="stop-color:#7f7f80;stop-opacity:1;"
+         offset="0"
+         id="stop4160" />
+      <stop
+         style="stop-color:#7f7f7f;stop-opacity:0.55752212;"
+         offset="0.77777779"
+         id="stop7755" />
+      <stop
+         id="stop7753"
+         offset="1"
+         style="stop-color:#808080;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6751">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop6753" />
+      <stop
+         style="stop-color:#808080;stop-opacity:0;"
+         offset="1"
+         id="stop6755" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6741">
+      <stop
+         style="stop-color:#c7c7c7;stop-opacity:1;"
+         offset="0"
+         id="stop6743" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop6745" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7749"
+       id="radialGradient6747"
+       cx="82.741318"
+       cy="55.293221"
+       fx="82.741318"
+       fy="55.293221"
+       r="38.547142"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7757"
+       id="linearGradient6778"
+       x1="91.580147"
+       y1="68.796989"
+       x2="78.321907"
+       y2="52.837994"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-165.48264,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7781"
+       id="linearGradient8760"
+       gradientUnits="userSpaceOnUse"
+       x1="62.362888"
+       y1="37.124504"
+       x2="71.692772"
+       y2="49.891712"
+       gradientTransform="translate(-154.19418,-4.331413)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9738"
+       id="linearGradient9736"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-131.28847,-4.331413)"
+       x1="54.506161"
+       y1="33.441658"
+       x2="74.393532"
+       y2="52.101425" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7749"
+       id="radialGradient2225"
+       gradientUnits="userSpaceOnUse"
+       cx="82.741318"
+       cy="55.293221"
+       fx="82.741318"
+       fy="55.293221"
+       r="38.547142" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7749"
+       id="radialGradient2229"
+       gradientUnits="userSpaceOnUse"
+       cx="82.741318"
+       cy="55.293221"
+       fx="82.741318"
+       fy="55.293221"
+       r="38.547142" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7749"
+       id="radialGradient2233"
+       gradientUnits="userSpaceOnUse"
+       cx="82.741318"
+       cy="55.293221"
+       fx="82.741318"
+       fy="55.293221"
+       r="38.547142" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7749"
+       id="radialGradient2237"
+       gradientUnits="userSpaceOnUse"
+       cx="82.741318"
+       cy="55.293221"
+       fx="82.741318"
+       fy="55.293221"
+       r="38.547142" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2243"
+       id="linearGradient2241"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.8301523,0,0,2.594226e-2,-110.50883,281.38758)"
+       x1="65.242561"
+       y1="55.784164"
+       x2="79.291008"
+       y2="55.784164" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7749"
+       id="radialGradient3229"
+       gradientUnits="userSpaceOnUse"
+       cx="82.741318"
+       cy="55.293221"
+       fx="82.741318"
+       fy="55.293221"
+       r="38.547142" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3185"
+       id="linearGradient3183"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-131.28847,-4.331413)"
+       x1="113.36528"
+       y1="85.650116"
+       x2="71.626335"
+       y2="47.839546" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7749"
+       id="radialGradient4186"
+       gradientUnits="userSpaceOnUse"
+       cx="82.741318"
+       cy="55.293221"
+       fx="82.741318"
+       fy="55.293221"
+       r="38.547142" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3185"
+       id="linearGradient4190"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-211.28847,-4.331413)"
+       x1="113.36528"
+       y1="85.650116"
+       x2="71.626335"
+       y2="47.839546" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7749"
+       id="radialGradient2232"
+       gradientUnits="userSpaceOnUse"
+       cx="82.741318"
+       cy="55.293221"
+       fx="82.741318"
+       fy="55.293221"
+       r="38.547142" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9738"
+       id="linearGradient2234"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-131.28847,75.668587)"
+       x1="54.506161"
+       y1="33.441658"
+       x2="74.393532"
+       y2="52.101425" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3185"
+       id="linearGradient2236"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-131.28847,75.668587)"
+       x1="113.36528"
+       y1="85.650116"
+       x2="71.626335"
+       y2="47.839546" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7749"
+       id="radialGradient2234"
+       gradientUnits="userSpaceOnUse"
+       cx="82.741318"
+       cy="55.293221"
+       fx="82.741318"
+       fy="55.293221"
+       r="38.547142" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9738"
+       id="linearGradient2237"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-131.28847,-104.33141)"
+       x1="54.506161"
+       y1="33.441658"
+       x2="74.393532"
+       y2="52.101425" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3210"
+       id="linearGradient2239"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-131.28847,-104.33141)"
+       x1="113.36528"
+       y1="85.650116"
+       x2="71.626335"
+       y2="47.839546" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9738"
+       id="linearGradient3246"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-291.28847,-184.33141)"
+       x1="54.506161"
+       y1="33.441658"
+       x2="74.393532"
+       y2="52.101425" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3276"
+       id="linearGradient3282"
+       x1="133.56461"
+       y1="-104.05128"
+       x2="133.56461"
+       y2="-118.53717"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3301"
+       id="linearGradient3307"
+       x1="125.70787"
+       y1="-149.47307"
+       x2="125.70787"
+       y2="-141.86186"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.5390072,0,93.53625)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9738"
+       id="linearGradient3311"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.6879432,0,-54.15257)"
+       x1="125.70787"
+       y1="-149.47307"
+       x2="125.70787"
+       y2="-141.86186" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7749"
+       id="radialGradient2264"
+       gradientUnits="userSpaceOnUse"
+       cx="82.741318"
+       cy="55.293221"
+       fx="82.741318"
+       fy="55.293221"
+       r="38.547142" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9738"
+       id="linearGradient2266"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-31.28847,-104.33141)"
+       x1="54.506161"
+       y1="33.441658"
+       x2="79.795044"
+       y2="59.467121" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3210"
+       id="linearGradient2268"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-31.28847,-104.33141)"
+       x1="97.651794"
+       y1="75.092621"
+       x2="78.992027"
+       y2="55.784275" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3210"
+       id="linearGradient2272"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-31.28847,-104.33141)"
+       x1="79.7286"
+       y1="89.332962"
+       x2="78.992027"
+       y2="55.784275" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7749"
+       id="radialGradient2284"
+       gradientUnits="userSpaceOnUse"
+       cx="82.741318"
+       cy="55.293221"
+       fx="82.741318"
+       fy="55.293221"
+       r="38.547142" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3210"
+       id="linearGradient2286"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(48.71153,-104.33141)"
+       x1="97.651794"
+       y1="75.092621"
+       x2="78.992027"
+       y2="55.784275" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3210"
+       id="linearGradient2288"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(48.71153,-104.33141)"
+       x1="78.992027"
+       y1="65.517212"
+       x2="78.992027"
+       y2="55.784275" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="in"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.0729352"
+     inkscape:cx="139.33355"
+     inkscape:cy="1099.6688"
+     inkscape:current-layer="layer1"
+     id="namedview4768"
+     inkscape:window-width="1680"
+     inkscape:window-height="994"
+     inkscape:window-x="1276"
+     inkscape:window-y="-4"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata4770">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3234"
+       width="77.094284"
+       height="77.094284"
+       x="90.000008"
+       y="-167.0943"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\specular.png"
+       inkscape:export-xdpi="298.8548"
+       inkscape:export-ydpi="298.8548" />
+    <rect
+       transform="scale(-1,1)"
+       inkscape:export-ydpi="149.42738"
+       inkscape:export-xdpi="149.42738"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       ry="0"
+       y="-167.09427"
+       x="-247.09427"
+       height="77.094284"
+       width="77.094284"
+       id="rect3240"
+       style="opacity:0.97524749;color:#000000;fill:url(#linearGradient3246);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.78, 3.78;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:1;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4791"
+       width="77.094284"
+       height="77.094284"
+       x="10.000008"
+       y="12.905698"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       inkscape:export-xdpi="296.34476"
+       inkscape:export-ydpi="296.34476" />
+    <rect
+       inkscape:export-ydpi="149.42741"
+       inkscape:export-xdpi="149.42741"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       ry="0"
+       y="12.905698"
+       x="10.000008"
+       height="77.094284"
+       width="77.094284"
+       id="rect6749"
+       style="opacity:0.5;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;color:#000000;fill:url(#radialGradient6747);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4793"
+       sodipodi:cx="82.741318"
+       sodipodi:cy="55.293221"
+       sodipodi:rx="38.547142"
+       sodipodi:ry="38.547142"
+       d="M 121.28846 55.293221 A 38.547142 38.547142 0 1 1  44.194176,55.293221 A 38.547142 38.547142 0 1 1  121.28846 55.293221 z"
+       inkscape:export-xdpi="149.42751"
+       inkscape:export-ydpi="149.42751"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\YellowHighlights.png"
+       transform="translate(-34.194176,-3.8403625)" />
+    <rect
+       style="opacity:0.30693066;color:#000000;fill:url(#linearGradient8760);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.78, 3.78;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7777"
+       width="77.094284"
+       height="77.094284"
+       x="-110"
+       y="12.905716"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       inkscape:export-xdpi="149.4274"
+       inkscape:export-ydpi="149.4274" />
+    <rect
+       style="opacity:0.30693066;color:#000000;fill:#7b7b87;fill-opacity:1;fill-rule:nonzero;stroke:#7b7b89;stroke-width:0.63;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.78, 3.78;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7787"
+       width="25.043365"
+       height="19.887379"
+       x="-27.007551"
+       y="30.249857" />
+    <rect
+       transform="scale(-1,1)"
+       inkscape:export-ydpi="149.42738"
+       inkscape:export-xdpi="149.42738"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       ry="0"
+       y="12.905716"
+       x="-87.094269"
+       height="77.094284"
+       width="77.094284"
+       id="rect9734"
+       style="opacity:0.49009902;color:#000000;fill:url(#linearGradient9736);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.78, 3.78;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       inkscape:export-ydpi="296.34476"
+       inkscape:export-xdpi="296.34476"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       ry="0"
+       y="192.9057"
+       x="10.000008"
+       height="77.094284"
+       width="77.094284"
+       id="rect2219"
+       style="opacity:1;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.5;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2221"
+       width="77.094284"
+       height="77.094284"
+       x="10.000008"
+       y="192.9057"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testprojected.png"
+       inkscape:export-xdpi="149.42741"
+       inkscape:export-ydpi="149.42741" />
+    <path
+       transform="matrix(0.3375797,0,0,0.3375797,-4.9190547,187.25258)"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\YellowHighlights.png"
+       inkscape:export-ydpi="149.42751"
+       inkscape:export-xdpi="149.42751"
+       d="M 121.28846 55.293221 A 38.547142 38.547142 0 1 1  44.194176,55.293221 A 38.547142 38.547142 0 1 1  121.28846 55.293221 z"
+       sodipodi:ry="38.547142"
+       sodipodi:rx="38.547142"
+       sodipodi:cy="55.293221"
+       sodipodi:cx="82.741318"
+       id="path2223"
+       style="opacity:1;color:#000000;fill:url(#radialGradient2225);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;color:#000000;fill:url(#radialGradient2229);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2227"
+       sodipodi:cx="82.741318"
+       sodipodi:cy="55.293221"
+       sodipodi:rx="38.547142"
+       sodipodi:ry="38.547142"
+       d="M 121.28846 55.293221 A 38.547142 38.547142 0 1 1  44.194176,55.293221 A 38.547142 38.547142 0 1 1  121.28846 55.293221 z"
+       inkscape:export-xdpi="149.42751"
+       inkscape:export-ydpi="149.42751"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\YellowHighlights.png"
+       transform="matrix(0.3375797,0,0,0.3375797,28.303598,194.21148)" />
+    <path
+       transform="matrix(0.3375797,0,0,0.3375797,45.167675,222.60792)"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\YellowHighlights.png"
+       inkscape:export-ydpi="149.42751"
+       inkscape:export-xdpi="149.42751"
+       d="M 121.28846 55.293221 A 38.547142 38.547142 0 1 1  44.194176,55.293221 A 38.547142 38.547142 0 1 1  121.28846 55.293221 z"
+       sodipodi:ry="38.547142"
+       sodipodi:rx="38.547142"
+       sodipodi:cy="55.293221"
+       sodipodi:cx="82.741318"
+       id="path2231"
+       style="opacity:1;color:#000000;fill:url(#radialGradient2233);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;color:#000000;fill:url(#radialGradient2237);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2235"
+       sodipodi:cx="82.741318"
+       sodipodi:cy="55.293221"
+       sodipodi:rx="38.547142"
+       sodipodi:ry="38.547142"
+       d="M 121.28846 55.293221 A 38.547142 38.547142 0 1 1  44.194176,55.293221 A 38.547142 38.547142 0 1 1  121.28846 55.293221 z"
+       inkscape:export-xdpi="149.42751"
+       inkscape:export-ydpi="149.42751"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\YellowHighlights.png"
+       transform="matrix(0.5859873,0,0,0.5859873,-9.5136225,209.11819)" />
+    <rect
+       style="opacity:1;color:#000000;fill:url(#linearGradient2241);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.63;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.78, 3.78;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2239"
+       width="64"
+       height="2"
+       x="-73.820923"
+       y="281.83475"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\projectedlookup.png"
+       inkscape:export-xdpi="149.42738"
+       inkscape:export-ydpi="149.42738"
+       transform="scale(-1,1)" />
+    <rect
+       style="opacity:0.16831683;color:#000000;fill:url(#linearGradient3183);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.78, 3.78;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3181"
+       width="77.094284"
+       height="77.094284"
+       x="-87.094269"
+       y="12.905716"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\SlightDirectional.png"
+       inkscape:export-xdpi="296.34476"
+       inkscape:export-ydpi="296.34476"
+       transform="scale(-1,1)" />
+    <rect
+       inkscape:export-ydpi="296.34476"
+       inkscape:export-xdpi="296.34476"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       ry="0"
+       y="12.905698"
+       x="90.000008"
+       height="77.094284"
+       width="77.094284"
+       id="rect4176"
+       style="opacity:1;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.5;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4178"
+       width="77.094284"
+       height="77.094284"
+       x="90.000008"
+       y="12.905698"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\RimOnly.png"
+       inkscape:export-xdpi="149.42741"
+       inkscape:export-ydpi="149.42741" />
+    <path
+       transform="translate(45.805824,-3.8403625)"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\RimOnly.png"
+       inkscape:export-ydpi="149.42751"
+       inkscape:export-xdpi="149.42751"
+       d="M 121.28846 55.293221 A 38.547142 38.547142 0 1 1  44.194176,55.293221 A 38.547142 38.547142 0 1 1  121.28846 55.293221 z"
+       sodipodi:ry="38.547142"
+       sodipodi:rx="38.547142"
+       sodipodi:cy="55.293221"
+       sodipodi:cx="82.741318"
+       id="path4180"
+       style="opacity:1;color:#000000;fill:url(#radialGradient4186);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <rect
+       inkscape:export-ydpi="296.34476"
+       inkscape:export-xdpi="296.34476"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       ry="0"
+       y="92.905701"
+       x="10.000008"
+       height="77.094284"
+       width="77.094284"
+       id="rect2222"
+       style="opacity:1;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       inkscape:export-ydpi="296.34476"
+       inkscape:export-xdpi="296.34476"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       ry="0"
+       y="-87.094299"
+       x="10.000008"
+       height="77.094284"
+       width="77.094284"
+       id="rect2223"
+       style="opacity:1;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.5;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2225"
+       width="77.094284"
+       height="77.094284"
+       x="10.000008"
+       y="-87.094299"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       inkscape:export-xdpi="149.42741"
+       inkscape:export-ydpi="149.42741" />
+    <path
+       transform="translate(-34.194176,-103.84036)"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\YellowHighlights.png"
+       inkscape:export-ydpi="149.42751"
+       inkscape:export-xdpi="149.42751"
+       d="M 121.28846 55.293221 A 38.547142 38.547142 0 1 1  44.194176,55.293221 A 38.547142 38.547142 0 1 1  121.28846 55.293221 z"
+       sodipodi:ry="38.547142"
+       sodipodi:rx="38.547142"
+       sodipodi:cy="55.293221"
+       sodipodi:cx="82.741318"
+       id="path2228"
+       style="opacity:1;color:#000000;fill:url(#radialGradient2234);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <rect
+       style="opacity:0.22277228;color:#000000;fill:url(#linearGradient2237);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.78, 3.78;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2230"
+       width="77.094284"
+       height="77.094284"
+       x="-87.094269"
+       y="-87.094284"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       inkscape:export-xdpi="149.42738"
+       inkscape:export-ydpi="149.42738"
+       transform="scale(-1,1)" />
+    <rect
+       transform="scale(-1,1)"
+       inkscape:export-ydpi="298.85483"
+       inkscape:export-xdpi="298.85483"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\Harsh.png"
+       ry="0"
+       y="-87.094284"
+       x="-87.094269"
+       height="77.094284"
+       width="77.094284"
+       id="rect2232"
+       style="opacity:0.84653476;color:#000000;fill:url(#linearGradient2239);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.78, 3.78;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.78;color:#000000;fill:url(#linearGradient3307);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3254"
+       width="90.10701"
+       height="53.278526"
+       x="83.968925"
+       y="-173.53435"
+       inkscape:export-xdpi="298.8548"
+       inkscape:export-ydpi="298.8548" />
+    <rect
+       inkscape:export-ydpi="298.8548"
+       inkscape:export-xdpi="298.8548"
+       y="-173.53435"
+       x="83.968925"
+       height="23.815744"
+       width="90.10701"
+       id="rect3309"
+       style="opacity:1;color:#000000;fill:url(#linearGradient3311);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:1;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2254"
+       width="77.094284"
+       height="77.094284"
+       x="-89.999992"
+       y="-87.094299"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       inkscape:export-xdpi="296.34476"
+       inkscape:export-ydpi="296.34476" />
+    <rect
+       inkscape:export-ydpi="149.42741"
+       inkscape:export-xdpi="149.42741"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       ry="0"
+       y="-87.094299"
+       x="-89.999992"
+       height="77.094284"
+       width="77.094284"
+       id="rect2256"
+       style="opacity:0.5;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;color:#000000;fill:url(#radialGradient2264);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2258"
+       sodipodi:cx="82.741318"
+       sodipodi:cy="55.293221"
+       sodipodi:rx="38.547142"
+       sodipodi:ry="38.547142"
+       d="M 121.28846 55.293221 A 38.547142 38.547142 0 1 1  44.194176,55.293221 A 38.547142 38.547142 0 1 1  121.28846 55.293221 z"
+       inkscape:export-xdpi="149.42751"
+       inkscape:export-ydpi="149.42751"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\YellowHighlights.png"
+       transform="translate(-134.19418,-103.84036)" />
+    <rect
+       style="opacity:0.84653476;color:#000000;fill:url(#linearGradient2268);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.78, 3.78;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2262"
+       width="77.094284"
+       height="77.094284"
+       x="12.905731"
+       y="-87.094276"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\VeryHarsh.png"
+       inkscape:export-xdpi="298.85483"
+       inkscape:export-ydpi="298.85483"
+       transform="scale(-1,1)" />
+    <rect
+       transform="scale(-1,1)"
+       inkscape:export-ydpi="298.85483"
+       inkscape:export-xdpi="298.85483"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\VeryHarsh.png"
+       ry="0"
+       y="-87.094276"
+       x="12.905731"
+       height="77.094284"
+       width="77.094284"
+       id="rect2270"
+       style="opacity:0.84653476;color:#000000;fill:url(#linearGradient2272);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.78, 3.78;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       inkscape:export-ydpi="296.34476"
+       inkscape:export-xdpi="296.34476"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       ry="0"
+       y="-87.094299"
+       x="-170"
+       height="77.094284"
+       width="77.094284"
+       id="rect2274"
+       style="opacity:1;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.5;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2276"
+       width="77.094284"
+       height="77.094284"
+       x="-170"
+       y="-87.094299"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lookups\testlighting.png"
+       inkscape:export-xdpi="149.42741"
+       inkscape:export-ydpi="149.42741" />
+    <path
+       transform="translate(-214.19418,-103.84036)"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\YellowHighlights.png"
+       inkscape:export-ydpi="149.42751"
+       inkscape:export-xdpi="149.42751"
+       d="M 121.28846 55.293221 A 38.547142 38.547142 0 1 1  44.194176,55.293221 A 38.547142 38.547142 0 1 1  121.28846 55.293221 z"
+       sodipodi:ry="38.547142"
+       sodipodi:rx="38.547142"
+       sodipodi:cy="55.293221"
+       sodipodi:cx="82.741318"
+       id="path2278"
+       style="opacity:1;color:#000000;fill:url(#radialGradient2284);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.653;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.918, 3.918;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <rect
+       transform="scale(-1,1)"
+       inkscape:export-ydpi="298.85483"
+       inkscape:export-xdpi="298.85483"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\VeryHarsh.png"
+       ry="0"
+       y="-87.094276"
+       x="92.905731"
+       height="77.094284"
+       width="77.094284"
+       id="rect2280"
+       style="opacity:0.84653476;color:#000000;fill:url(#linearGradient2286);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.78, 3.78;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.84653476;color:#000000;fill:url(#linearGradient2288);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:3.78, 3.78;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2282"
+       width="77.094284"
+       height="77.094284"
+       x="92.905731"
+       y="-87.094276"
+       ry="0"
+       inkscape:export-filename="C:\Spheroid\Projects\Spheroid\Build\Effects\Lighting\VeryHarsh.png"
+       inkscape:export-xdpi="298.85483"
+       inkscape:export-ydpi="298.85483"
+       transform="scale(-1,1)" />
+  </g>
+</svg>

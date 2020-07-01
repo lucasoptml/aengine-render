@@ -1,0 +1,324 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		78AA9BFF168A6F96002FCDAE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78AA9BFE168A6F96002FCDAE /* Foundation.framework */; };
+		78AA9C04168A6F96002FCDAE /* AEngineLib.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 78AA9C03168A6F96002FCDAE /* AEngineLib.h */; };
+		78AA9C06168A6F96002FCDAE /* AEngineLib.m in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9C05168A6F96002FCDAE /* AEngineLib.m */; };
+		78AA9C18168A6FC9002FCDAE /* AVertexBuffer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9C0C168A6FC9002FCDAE /* AVertexBuffer.cpp */; };
+		78AA9C19168A6FC9002FCDAE /* ATexture.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9C0D168A6FC9002FCDAE /* ATexture.cpp */; };
+		78AA9C1A168A6FC9002FCDAE /* AShader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9C0E168A6FC9002FCDAE /* AShader.cpp */; };
+		78AA9C1B168A6FC9002FCDAE /* ARenderer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9C0F168A6FC9002FCDAE /* ARenderer.cpp */; };
+		78AA9C1C168A6FC9002FCDAE /* AIndexBuffer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9C10168A6FC9002FCDAE /* AIndexBuffer.cpp */; };
+		78AA9C1D168A6FC9002FCDAE /* AEngineLib.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9C11168A6FC9002FCDAE /* AEngineLib.cpp */; };
+		78AA9CE8168C05BB002FCDAE /* AEngineLibGL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9CDA168C05BB002FCDAE /* AEngineLibGL.cpp */; };
+		78AA9CE9168C05BB002FCDAE /* AIndexBufferGL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9CDC168C05BB002FCDAE /* AIndexBufferGL.cpp */; };
+		78AA9CEB168C05BB002FCDAE /* ARendererGL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9CE0168C05BB002FCDAE /* ARendererGL.cpp */; };
+		78AA9CEC168C05BB002FCDAE /* AShaderGL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9CE2168C05BB002FCDAE /* AShaderGL.cpp */; };
+		78AA9CED168C05BB002FCDAE /* ATextureGL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9CE4168C05BB002FCDAE /* ATextureGL.cpp */; };
+		78AA9CEE168C05BB002FCDAE /* AVertexBufferGL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78AA9CE6168C05BB002FCDAE /* AVertexBufferGL.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		78AA9BF9168A6F96002FCDAE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/${PRODUCT_NAME}";
+			dstSubfolderSpec = 16;
+			files = (
+				78AA9C04168A6F96002FCDAE /* AEngineLib.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		78AA9BFB168A6F96002FCDAE /* libAEngineLib.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libAEngineLib.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		78AA9BFE168A6F96002FCDAE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		78AA9C02168A6F96002FCDAE /* AEngineLib-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AEngineLib-Prefix.pch"; sourceTree = "<group>"; };
+		78AA9C03168A6F96002FCDAE /* AEngineLib.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AEngineLib.h; sourceTree = "<group>"; };
+		78AA9C05168A6F96002FCDAE /* AEngineLib.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AEngineLib.m; sourceTree = "<group>"; };
+		78AA9C0C168A6FC9002FCDAE /* AVertexBuffer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AVertexBuffer.cpp; path = ../AVertexBuffer.cpp; sourceTree = "<group>"; };
+		78AA9C0D168A6FC9002FCDAE /* ATexture.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ATexture.cpp; path = ../ATexture.cpp; sourceTree = "<group>"; };
+		78AA9C0E168A6FC9002FCDAE /* AShader.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AShader.cpp; path = ../AShader.cpp; sourceTree = "<group>"; };
+		78AA9C0F168A6FC9002FCDAE /* ARenderer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ARenderer.cpp; path = ../ARenderer.cpp; sourceTree = "<group>"; };
+		78AA9C10168A6FC9002FCDAE /* AIndexBuffer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AIndexBuffer.cpp; path = ../AIndexBuffer.cpp; sourceTree = "<group>"; };
+		78AA9C11168A6FC9002FCDAE /* AEngineLib.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AEngineLib.cpp; path = ../AEngineLib.cpp; sourceTree = "<group>"; };
+		78AA9C12168A6FC9002FCDAE /* ATexture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATexture.h; path = ../ATexture.h; sourceTree = "<group>"; };
+		78AA9C13168A6FC9002FCDAE /* AEngineLib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AEngineLib.h; path = ../AEngineLib.h; sourceTree = "<group>"; };
+		78AA9C14168A6FC9002FCDAE /* AShader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AShader.h; path = ../AShader.h; sourceTree = "<group>"; };
+		78AA9C15168A6FC9002FCDAE /* AVertexBuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AVertexBuffer.h; path = ../AVertexBuffer.h; sourceTree = "<group>"; };
+		78AA9C16168A6FC9002FCDAE /* ARenderer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ARenderer.h; path = ../ARenderer.h; sourceTree = "<group>"; };
+		78AA9C17168A6FC9002FCDAE /* AIndexBuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AIndexBuffer.h; path = ../AIndexBuffer.h; sourceTree = "<group>"; };
+		78AA9CDA168C05BB002FCDAE /* AEngineLibGL.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AEngineLibGL.cpp; path = ../GL/AEngineLibGL.cpp; sourceTree = "<group>"; };
+		78AA9CDB168C05BB002FCDAE /* AEngineLibGL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AEngineLibGL.h; path = ../GL/AEngineLibGL.h; sourceTree = "<group>"; };
+		78AA9CDC168C05BB002FCDAE /* AIndexBufferGL.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AIndexBufferGL.cpp; path = ../GL/AIndexBufferGL.cpp; sourceTree = "<group>"; };
+		78AA9CDD168C05BB002FCDAE /* AIndexBufferGL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AIndexBufferGL.h; path = ../GL/AIndexBufferGL.h; sourceTree = "<group>"; };
+		78AA9CE0168C05BB002FCDAE /* ARendererGL.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ARendererGL.cpp; path = ../GL/ARendererGL.cpp; sourceTree = "<group>"; };
+		78AA9CE1168C05BB002FCDAE /* ARendererGL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ARendererGL.h; path = ../GL/ARendererGL.h; sourceTree = "<group>"; };
+		78AA9CE2168C05BB002FCDAE /* AShaderGL.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AShaderGL.cpp; path = ../GL/AShaderGL.cpp; sourceTree = "<group>"; };
+		78AA9CE3168C05BB002FCDAE /* AShaderGL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AShaderGL.h; path = ../GL/AShaderGL.h; sourceTree = "<group>"; };
+		78AA9CE4168C05BB002FCDAE /* ATextureGL.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ATextureGL.cpp; path = ../GL/ATextureGL.cpp; sourceTree = "<group>"; };
+		78AA9CE5168C05BB002FCDAE /* ATextureGL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATextureGL.h; path = ../GL/ATextureGL.h; sourceTree = "<group>"; };
+		78AA9CE6168C05BB002FCDAE /* AVertexBufferGL.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AVertexBufferGL.cpp; path = ../GL/AVertexBufferGL.cpp; sourceTree = "<group>"; };
+		78AA9CE7168C05BB002FCDAE /* AVertexBufferGL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AVertexBufferGL.h; path = ../GL/AVertexBufferGL.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		78AA9BF8168A6F96002FCDAE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				78AA9BFF168A6F96002FCDAE /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		78AA9BF0168A6F96002FCDAE = {
+			isa = PBXGroup;
+			children = (
+				78AA9CF0168C05C8002FCDAE /* GL */,
+				78AA9C0C168A6FC9002FCDAE /* AVertexBuffer.cpp */,
+				78AA9C0D168A6FC9002FCDAE /* ATexture.cpp */,
+				78AA9C0E168A6FC9002FCDAE /* AShader.cpp */,
+				78AA9C0F168A6FC9002FCDAE /* ARenderer.cpp */,
+				78AA9C10168A6FC9002FCDAE /* AIndexBuffer.cpp */,
+				78AA9C17168A6FC9002FCDAE /* AIndexBuffer.h */,
+				78AA9C11168A6FC9002FCDAE /* AEngineLib.cpp */,
+				78AA9C12168A6FC9002FCDAE /* ATexture.h */,
+				78AA9C13168A6FC9002FCDAE /* AEngineLib.h */,
+				78AA9C14168A6FC9002FCDAE /* AShader.h */,
+				78AA9C15168A6FC9002FCDAE /* AVertexBuffer.h */,
+				78AA9C16168A6FC9002FCDAE /* ARenderer.h */,
+				78AA9C00168A6F96002FCDAE /* AEngineLib */,
+				78AA9BFD168A6F96002FCDAE /* Frameworks */,
+				78AA9BFC168A6F96002FCDAE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		78AA9BFC168A6F96002FCDAE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				78AA9BFB168A6F96002FCDAE /* libAEngineLib.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		78AA9BFD168A6F96002FCDAE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				78AA9BFE168A6F96002FCDAE /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		78AA9C00168A6F96002FCDAE /* AEngineLib */ = {
+			isa = PBXGroup;
+			children = (
+				78AA9C03168A6F96002FCDAE /* AEngineLib.h */,
+				78AA9C05168A6F96002FCDAE /* AEngineLib.m */,
+				78AA9C01168A6F96002FCDAE /* Supporting Files */,
+			);
+			path = AEngineLib;
+			sourceTree = "<group>";
+		};
+		78AA9C01168A6F96002FCDAE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				78AA9C02168A6F96002FCDAE /* AEngineLib-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		78AA9CF0168C05C8002FCDAE /* GL */ = {
+			isa = PBXGroup;
+			children = (
+				78AA9CDA168C05BB002FCDAE /* AEngineLibGL.cpp */,
+				78AA9CDB168C05BB002FCDAE /* AEngineLibGL.h */,
+				78AA9CDC168C05BB002FCDAE /* AIndexBufferGL.cpp */,
+				78AA9CE0168C05BB002FCDAE /* ARendererGL.cpp */,
+				78AA9CDD168C05BB002FCDAE /* AIndexBufferGL.h */,
+				78AA9CE1168C05BB002FCDAE /* ARendererGL.h */,
+				78AA9CE2168C05BB002FCDAE /* AShaderGL.cpp */,
+				78AA9CE3168C05BB002FCDAE /* AShaderGL.h */,
+				78AA9CE4168C05BB002FCDAE /* ATextureGL.cpp */,
+				78AA9CE5168C05BB002FCDAE /* ATextureGL.h */,
+				78AA9CE6168C05BB002FCDAE /* AVertexBufferGL.cpp */,
+				78AA9CE7168C05BB002FCDAE /* AVertexBufferGL.h */,
+			);
+			name = GL;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		78AA9BFA168A6F96002FCDAE /* AEngineLib */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 78AA9C09168A6F96002FCDAE /* Build configuration list for PBXNativeTarget "AEngineLib" */;
+			buildPhases = (
+				78AA9BF7168A6F96002FCDAE /* Sources */,
+				78AA9BF8168A6F96002FCDAE /* Frameworks */,
+				78AA9BF9168A6F96002FCDAE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AEngineLib;
+			productName = AEngineLib;
+			productReference = 78AA9BFB168A6F96002FCDAE /* libAEngineLib.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		78AA9BF2168A6F96002FCDAE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Lucas Ellis";
+			};
+			buildConfigurationList = 78AA9BF5168A6F96002FCDAE /* Build configuration list for PBXProject "AEngineLib" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 78AA9BF0168A6F96002FCDAE;
+			productRefGroup = 78AA9BFC168A6F96002FCDAE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				78AA9BFA168A6F96002FCDAE /* AEngineLib */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		78AA9BF7168A6F96002FCDAE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				78AA9C06168A6F96002FCDAE /* AEngineLib.m in Sources */,
+				78AA9C18168A6FC9002FCDAE /* AVertexBuffer.cpp in Sources */,
+				78AA9C19168A6FC9002FCDAE /* ATexture.cpp in Sources */,
+				78AA9C1A168A6FC9002FCDAE /* AShader.cpp in Sources */,
+				78AA9C1B168A6FC9002FCDAE /* ARenderer.cpp in Sources */,
+				78AA9C1C168A6FC9002FCDAE /* AIndexBuffer.cpp in Sources */,
+				78AA9C1D168A6FC9002FCDAE /* AEngineLib.cpp in Sources */,
+				78AA9CE8168C05BB002FCDAE /* AEngineLibGL.cpp in Sources */,
+				78AA9CE9168C05BB002FCDAE /* AIndexBufferGL.cpp in Sources */,
+				78AA9CEB168C05BB002FCDAE /* ARendererGL.cpp in Sources */,
+				78AA9CEC168C05BB002FCDAE /* AShaderGL.cpp in Sources */,
+				78AA9CED168C05BB002FCDAE /* ATextureGL.cpp in Sources */,
+				78AA9CEE168C05BB002FCDAE /* AVertexBufferGL.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		78AA9C07168A6F96002FCDAE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"AENGINE_GL=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		78AA9C08168A6F96002FCDAE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "AENGINE_GL=1";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		78AA9C0A168A6F96002FCDAE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/AEngineLib.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AEngineLib/AEngineLib-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		78AA9C0B168A6F96002FCDAE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/AEngineLib.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AEngineLib/AEngineLib-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		78AA9BF5168A6F96002FCDAE /* Build configuration list for PBXProject "AEngineLib" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				78AA9C07168A6F96002FCDAE /* Debug */,
+				78AA9C08168A6F96002FCDAE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		78AA9C09168A6F96002FCDAE /* Build configuration list for PBXNativeTarget "AEngineLib" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				78AA9C0A168A6F96002FCDAE /* Debug */,
+				78AA9C0B168A6F96002FCDAE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 78AA9BF2168A6F96002FCDAE /* Project object */;
+}
